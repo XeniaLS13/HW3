@@ -11,7 +11,7 @@
 23432 -> да
 НЕЛЬЗЯ ИСПОЛЬЗОВАТЬ СТРОКИ
 
-![Блок-схема]() | [Код](https://github.com/XeniaLS13/HW3/blob/main/Task1/Program.cs)
+[Код](https://github.com/XeniaLS13/HW3/blob/main/Task1/Program.cs)
 
 ### Задание 2.
 
@@ -21,7 +21,7 @@ A (3,6,8); B (2,1,-7), -> 15.84
 
 A (7,-5, 0); B (1,-1,9) -> 11.53
 
-![Блок-схема]() | [Код](https://github.com/XeniaLS13/HW3/blob/main/Task2/Program.cs)
+[Код](https://github.com/XeniaLS13/HW3/blob/main/Task2/Program.cs)
 
 ### Задание 3.
 
@@ -30,4 +30,4 @@ A (7,-5, 0); B (1,-1,9) -> 11.53
 3 -> 1, 8, 27
 5 -> 1, 8, 27, 64, 125
 
-![Блок-схема]() | [Код](https://github.com/XeniaLS13/HW3/blob/main/Task3/Program.cs)
+[Код](https://github.com/XeniaLS13/HW3/blob/main/Task3/Program.cs)
