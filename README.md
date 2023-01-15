@@ -11,7 +11,7 @@
 23432 -> да
 НЕЛЬЗЯ ИСПОЛЬЗОВАТЬ СТРОКИ
 
-![Блок-схема]() | [Код](https://github.com/XeniaLS13/HW3/commit/b1fdafc5209bfa8fa8a14213b35b54aa142fdb17)
+![Блок-схема]() | [Код](https://github.com/XeniaLS13/HW3/blob/main/Task1/Program.cs)
 
 ### Задание 2.
 
